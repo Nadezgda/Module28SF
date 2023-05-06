@@ -14,7 +14,7 @@
 
 6. tests_rostelecom.py содержит тесты для Ростелекома ( https://b2c.passport.rt.ru/ )
 
-
+7. Тест-кейсы: docs.google.com https://docs.google.com/spreadsheets/d/1Owru-a0PTLfB7gLHdntwvT_UcBDQUbqb/edit?usp=sharing&ouid=105539758556913784628&rtpof=true&sd=true
 Запуск тестов
 1. Установите все требования:
     pip install -r requirements.txt
